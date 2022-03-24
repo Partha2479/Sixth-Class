@@ -1,0 +1,131 @@
+body h1{
+    font-family: 'Abril Fatface', cursive;
+}
+body{
+    margin: 0px;
+}
+.container{
+    background-image: url(Partha3.png.jpeg);
+    background-repeat: no-repeat;
+  
+
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    
+}
+#color{
+    color: orange;
+}
+.middle{
+    display: flex;
+}
+.middle2{
+    width: 50%;
+    margin-left: 10px;
+}
+#link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.images{
+    width: 80%;
+    
+}
+.images img{
+    width: 464px;
+    height: 461px;
+
+}
+body{
+    margin: 0px;
+}
+.container2 {
+   background-image: url(Partha5.png.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+h1{
+    font-size: 50px;
+}
+.second{
+    display: flex;
+}
+.second2{
+    width: 60%;
+}
+#link2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.picture{
+    width: 80%;
+}
+.picture img{
+    width: 464px;
+    height: 461px;
+}
+.flex{
+    display: flex;
+}
+.heading{
+    font-size: 50px;
+}
+.pic{
+    background-image: url(Partha6.png.png);
+    background-repeat: no-repeat;
+}
+.full{
+    box-shadow: 10px 10px 10px 10px grey;
+    width: 471px;
+    height: 350px;
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    text-align:justify;
+    border-image:linear-gradient(blue,skyblue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.child{
+    box-shadow: 10px 10px 10px 10px grey;
+    width: 471px;
+    height: 350px;
+    margin-left: 100px;
+    margin-right: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    text-align:justify;
+    border-image:linear-gradient(purple,tomato);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.web{
+    font-size: 35px;
+    padding-top: 10px;
+}
+.pro{
+    font-size: 1.20em;
+    color: orange;
+    padding-top: 10px;
+}
+.graph{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.copy-right{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
